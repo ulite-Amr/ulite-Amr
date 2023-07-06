@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A android developer from Egypt</h3>
 
 - 🔭 I’m currently working on [SketchyTUBE](https://github.com/ulite-Amr/sketchyTUBE)
 
