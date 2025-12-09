@@ -12,6 +12,9 @@
 ### 👨💻 Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 
 ### 🧰 Tools & Platforms
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -36,19 +39,13 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulite-Amr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=ulite-Amr&theme=dark&show_icons=true&count_private=true">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulite-Amr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulite-Amr&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=ulite-Amr&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=ulite-Amr&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ---
 
