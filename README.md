@@ -1,66 +1,65 @@
-<h1 align="center">Hi 👋, I'm Amr Ayman</h1>
-<h3 align="center">A passionate Android Developer using Kotlin & Java to build modern, clean, and scalable mobile apps</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+%2B+Java+Fan;Open+Source+Contributor;Clean+Architecture+Advocate" alt="Typing animation" />
-</p>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
----
+# Hey, I'm Amr Ayman!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Android%20Native%20%26%20KMP%20Developer;Rust%20%F0%9F%A6%80;Based%20in%20Egypt)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 About Me
+
+A passionate developer.
+
+- 🏢 Working at **Ulite Team** in **Egypt**
+- 🌱 Currently learning **Rust 🦀**
+- 💬 Ask me about **Android Native & KMP Developer**
+- ⚡ Build Failed Successfully
 
 ## 🛠️ Tech Stack
 
-### 👨💻 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<div align="center">
 
-### 🧰 Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🚀 Languages
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+ </div> 
 
-### 📐 Concepts & Practices
-- MVVM Architecture  
-- Clean Code & SOLID Principles  
-- RESTful APIs  
-- Dependency Injection (Hilt / Dagger)  
-- Git & GitHub Workflow  
+ ## 🛠️ Tools & Frameworks
+ <div align="center">
+ 
+### 🏗️ Architecture & Tools
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-gray?style=flat-square)
+![Coroutines](https://img.shields.io/badge/Kotlin-Coroutines-blue?style=flat-square&logo=kotlin)
+![Flow](https://img.shields.io/badge/Kotlin-Flow-purple?style=flat-square&logo=kotlin)
+![Room](https://img.shields.io/badge/Local%20DB-Room-red?style=flat-square&logo=sqlite)
 
----
+### 📱 Platforms
+![Android](https://img.shields.io/badge/Android-Native-3DDC84?style=flat-square&logo=android&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-## 🔥 Most Used Languages
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulite-Amr&layout=donut&theme=tokyonight&hide_progress=false" alt="Top Languages Pie Chart" />
-</p>
+ </div> 
 
----
+## 📊 GitHub Stats
 
-## GitHub Stats
+<div align="center">
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=ulite-Amr&theme=dark&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=ulite-Amr&theme=dark"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=ulite-Amr&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ulite-Amr&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ulite-Amr&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+## 🔗 Connect with me
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ulite-Amr)
 
-- 🐙 GitHub: [ulite-Amr](https://github.com/ulite-Amr)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ulite-Amr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
