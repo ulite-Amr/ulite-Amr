@@ -1,0 +1,57 @@
+<svg width="800" height="130" viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="130" rx="8" fill="#282828"/>
+  <rect x="0.5" y="0.5" width="799" height="129" rx="7.5" stroke="#504945"/>
+
+  <!-- left accent bar -->
+  <rect x="22" y="22" width="3" height="86" rx="1.5" fill="#fabd2f"/>
+
+  <!-- name -->
+  <text x="38" y="52"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="26" font-weight="700" fill="#ebdbb2">Amr Ayman</text>
+
+  <!-- tagline -->
+  <text x="38" y="76"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="12" fill="#a89984">Founder @ Ulite Team</text>
+
+  <!-- sub -->
+  <text x="38" y="98"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="10.5" fill="#7c6f64">Building where the UI ends and the system begins · since 2018</text>
+
+  <!-- pills: Kotlin -->
+  <rect x="548" y="30" width="72" height="20" rx="10" fill="#7F52FF" opacity="0.12"/>
+  <rect x="548" y="30" width="72" height="20" rx="10" stroke="#7F52FF" stroke-width="0.6"/>
+  <text x="584" y="44"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="10.5" fill="#7F52FF" text-anchor="middle">Kotlin</text>
+
+  <!-- pills: Rust -->
+  <rect x="630" y="30" width="72" height="20" rx="10" fill="#fe8019" opacity="0.12"/>
+  <rect x="630" y="30" width="72" height="20" rx="10" stroke="#fe8019" stroke-width="0.6"/>
+  <text x="666" y="44"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="10.5" fill="#fe8019" text-anchor="middle">Rust 🦀</text>
+
+  <!-- pills: Android -->
+  <rect x="548" y="60" width="72" height="20" rx="10" fill="#3DDC84" opacity="0.12"/>
+  <rect x="548" y="60" width="72" height="20" rx="10" stroke="#3DDC84" stroke-width="0.6"/>
+  <text x="584" y="74"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="10.5" fill="#3DDC84" text-anchor="middle">Android</text>
+
+  <!-- pills: KMP -->
+  <rect x="630" y="60" width="72" height="20" rx="10" fill="#8ec07c" opacity="0.12"/>
+  <rect x="630" y="60" width="72" height="20" rx="10" stroke="#8ec07c" stroke-width="0.6"/>
+  <text x="666" y="74"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="10.5" fill="#8ec07c" text-anchor="middle">KMP</text>
+
+  <!-- pills: Egypt -->
+  <rect x="548" y="90" width="154" height="20" rx="10" fill="#83a598" opacity="0.10"/>
+  <rect x="548" y="90" width="154" height="20" rx="10" stroke="#83a598" stroke-width="0.6"/>
+  <text x="625" y="104"
+    font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+    font-size="10.5" fill="#83a598" text-anchor="middle">🇪🇬  Cairo, Egypt</text>
+</svg>
