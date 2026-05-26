@@ -1,9 +1,5 @@
 <div align="center">
 
-```
-Android × KMP × Rust
-```
-
 # Amr Ayman
 
 *Founder of Ulite Team — building where the UI ends and the system begins.*
