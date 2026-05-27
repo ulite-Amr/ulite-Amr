@@ -1,63 +1,52 @@
-<svg width="420" height="478" viewBox="0 0 420 478" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#2a2a2a"/>
-    <stop offset="100%" stop-color="#282828"/>
-  </linearGradient>
-  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#3c3836" stop-opacity="0"/>
-    <stop offset="100%" stop-color="#3c3836" stop-opacity="1"/>
-  </linearGradient>
-</defs>
-<rect width="420" height="478" rx="12" fill="url(#bgGrad)"/>
-<rect x=".5" y=".5" width="419" height="477" rx="11.5" stroke="#504945"/>
-<!-- Header -->
-<rect x="24" y="20" width="3" height="16" rx="1.5" fill="#fabd2f"/>
-<text x="36" y="32" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" font-weight="700" fill="#fabd2f" letter-spacing="2.5">LANGUAGES</text>
-<text x="396" y="32" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#7c6f64" text-anchor="end">5 languages · 6 repos</text>
-<line x1="24" y1="46" x2="396" y2="46" stroke="#504945"/>
-<circle cx="29" cy="68" r="4.5" fill="#dea584" opacity=".9"/>
-<text x="42" y="72" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Rust</text>
-<text x="396" y="72" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="700" fill="#ebdbb2" text-anchor="end">92.7%</text>
-<rect x="24" y="78" width="372" height="5" rx="3" fill="#3c3836"/>
-<rect x="24" y="78" width="345.0" height="5" rx="3" fill="#dea584" opacity=".85"/>
-<text x="24" y="95" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">2.1MB</text>
-<text x="38" y="105" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#a89984">· kotlin-lsp</text>
-<line x1="24" y1="129" x2="396" y2="129" stroke="#3c3836" stroke-dasharray="2 4" opacity=".5"/>
-<circle cx="29" cy="140" r="4.5" fill="#3572A5" opacity=".9"/>
-<text x="42" y="144" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Python</text>
-<text x="396" y="144" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="700" fill="#ebdbb2" text-anchor="end">3.0%</text>
-<rect x="24" y="150" width="372" height="5" rx="3" fill="#3c3836"/>
-<rect x="24" y="150" width="11.3" height="5" rx="3" fill="#3572A5" opacity=".85"/>
-<text x="24" y="167" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">70kB</text>
-<text x="38" y="177" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#a89984">· kotlin-lsp</text>
-<text x="38" y="191" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#a89984">· ulite-Amr</text>
-<line x1="24" y1="215" x2="396" y2="215" stroke="#3c3836" stroke-dasharray="2 4" opacity=".5"/>
-<circle cx="29" cy="226" r="4.5" fill="#7F52FF" opacity=".9"/>
-<text x="42" y="230" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Kotlin</text>
-<text x="396" y="230" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="700" fill="#ebdbb2" text-anchor="end">2.3%</text>
-<rect x="24" y="236" width="372" height="5" rx="3" fill="#3c3836"/>
-<rect x="24" y="236" width="8.7" height="5" rx="3" fill="#7F52FF" opacity=".85"/>
-<text x="24" y="253" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">54kB</text>
-<text x="38" y="263" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#a89984">· NoteScribe</text>
-<line x1="24" y1="287" x2="396" y2="287" stroke="#3c3836" stroke-dasharray="2 4" opacity=".5"/>
-<circle cx="29" cy="298" r="4.5" fill="#f1e05a" opacity=".9"/>
-<text x="42" y="302" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">JavaScript</text>
-<text x="396" y="302" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="700" fill="#ebdbb2" text-anchor="end">1.4%</text>
-<rect x="24" y="308" width="372" height="5" rx="3" fill="#3c3836"/>
-<rect x="24" y="308" width="5.1" height="5" rx="3" fill="#f1e05a" opacity=".85"/>
-<text x="24" y="325" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">32kB</text>
-<text x="38" y="335" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#a89984">· kotlin-lsp</text>
-<line x1="24" y1="359" x2="396" y2="359" stroke="#3c3836" stroke-dasharray="2 4" opacity=".5"/>
-<circle cx="29" cy="370" r="4.5" fill="#89e051" opacity=".9"/>
-<text x="42" y="374" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Shell</text>
-<text x="396" y="374" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="700" fill="#ebdbb2" text-anchor="end">0.5%</text>
-<rect x="24" y="380" width="372" height="5" rx="3" fill="#3c3836"/>
-<rect x="24" y="380" width="1.8" height="5" rx="3" fill="#89e051" opacity=".85"/>
-<text x="24" y="397" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">11kB</text>
-<text x="38" y="407" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#a89984">· kotlin-lsp</text>
-<line x1="24" y1="431" x2="396" y2="431" stroke="#3c3836" stroke-dasharray="2 4" opacity=".5"/>
-<line x1="24" y1="446" x2="396" y2="446" stroke="url(#fade)" stroke-width="1"/>
-<text x="24" y="460" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#7c6f64">2.3MB total · May 2026</text>
-<text x="396" y="460" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#7c6f64" text-anchor="end">@ulite-Amr</text>
+<svg width="460" height="396" viewBox="0 0 460 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><clipPath id="segClip"><rect x="26" y="54" width="408" height="10" rx="5"/></clipPath></defs>
+<rect width="460" height="396" rx="14" fill="#1d2021"/>
+<rect x=".5" y=".5" width="459" height="395" rx="13.5" stroke="#504945" stroke-opacity=".7"/>
+<rect x="26" y="16" width="3" height="20" rx="1.5" fill="#fabd2f"/>
+<text x="38" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#fabd2f" letter-spacing="2.5">LANGUAGES</text>
+<text x="38" y="44" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#7c6f64">5 languages · 6 repos · 2.3 MB</text>
+<rect x="26" y="54" width="408" height="10" rx="5" fill="#3c3836"/>
+<rect x="26" y="54" width="377.97" height="10" fill="#dea584" clip-path="url(#segClip)"/>
+<rect x="403.97" y="54" width="12.87" height="10" fill="#3572A5" clip-path="url(#segClip)"/>
+<rect x="416.84000000000003" y="54" width="9.56" height="10" fill="#7F52FF" clip-path="url(#segClip)"/>
+<rect x="426.40000000000003" y="54" width="5.59" height="10" fill="#f1e05a" clip-path="url(#segClip)"/>
+<rect x="431.99" y="54" width="2.01" height="10" fill="#89e051" clip-path="url(#segClip)"/>
+<line x1="26" y1="78" x2="434" y2="78" stroke="#504945" stroke-opacity=".55"/>
+<circle cx="31" cy="98" r="5" fill="#dea584"/>
+<text x="44" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Rust</text>
+<text x="434" y="102" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#dea584" text-anchor="end">92.6%</text>
+<rect x="26" y="110" width="408" height="4" rx="2" fill="#3c3836"/>
+<rect x="26" y="110" width="377.97" height="4" rx="2" fill="#dea584" opacity=".9"/>
+<text x="26" y="126" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">2.1 MB  ·  1 repo</text>
+<line x1="26" y1="138" x2="434" y2="138" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
+<circle cx="31" cy="152" r="5" fill="#3572A5"/>
+<text x="44" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Python</text>
+<text x="434" y="156" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#3572A5" text-anchor="end">3.2%</text>
+<rect x="26" y="164" width="408" height="4" rx="2" fill="#3c3836"/>
+<rect x="26" y="164" width="12.87" height="4" rx="2" fill="#3572A5" opacity=".9"/>
+<text x="26" y="180" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">73 kB  ·  2 repos</text>
+<line x1="26" y1="192" x2="434" y2="192" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
+<circle cx="31" cy="206" r="5" fill="#7F52FF"/>
+<text x="44" y="210" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Kotlin</text>
+<text x="434" y="210" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#7F52FF" text-anchor="end">2.3%</text>
+<rect x="26" y="218" width="408" height="4" rx="2" fill="#3c3836"/>
+<rect x="26" y="218" width="9.56" height="4" rx="2" fill="#7F52FF" opacity=".9"/>
+<text x="26" y="234" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">54 kB  ·  1 repo</text>
+<line x1="26" y1="246" x2="434" y2="246" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
+<circle cx="31" cy="260" r="5" fill="#f1e05a"/>
+<text x="44" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">JavaScript</text>
+<text x="434" y="264" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#f1e05a" text-anchor="end">1.4%</text>
+<rect x="26" y="272" width="408" height="4" rx="2" fill="#3c3836"/>
+<rect x="26" y="272" width="5.59" height="4" rx="2" fill="#f1e05a" opacity=".9"/>
+<text x="26" y="288" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">32 kB  ·  1 repo</text>
+<line x1="26" y1="300" x2="434" y2="300" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
+<circle cx="31" cy="314" r="5" fill="#89e051"/>
+<text x="44" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Shell</text>
+<text x="434" y="318" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#89e051" text-anchor="end">0.5%</text>
+<rect x="26" y="326" width="408" height="4" rx="2" fill="#3c3836"/>
+<rect x="26" y="326" width="2.01" height="4" rx="2" fill="#89e051" opacity=".9"/>
+<text x="26" y="342" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">11 kB  ·  1 repo</text>
+<line x1="26" y1="366" x2="434" y2="366" stroke="#504945" stroke-opacity=".4"/>
+<text x="26" y="384" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">updated May 2026</text>
+<text x="434" y="384" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64" text-anchor="end">@ulite-Amr</text>
 </svg>
