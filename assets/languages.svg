@@ -1,51 +1,57 @@
-<svg width="400" height="462" viewBox="0 0 400 462" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="400" height="462" rx="8" fill="#282828"/>
-<rect x="0.5" y="0.5" width="399" height="461" rx="7.5" stroke="#504945"/>
-<rect x="20" y="16" width="3" height="14" rx="1.5" fill="#fabd2f"/>
-<text x="30" y="27" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" font-weight="700" fill="#fabd2f" letter-spacing="2">LANGUAGES & SOURCES</text>
-<line x1="20" y1="36" x2="380" y2="36" stroke="#504945"/>
-<circle cx="25" cy="54" r="4" fill="#dea584"/>
-<text x="36" y="58" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12.5" font-weight="600" fill="#ebdbb2">Rust</text>
-<text x="310" y="58" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#a89984" text-anchor="end">2.1MB</text>
-<text x="380" y="58" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#7c6f64" text-anchor="end">92.8%</text>
-<rect x="20" y="64" width="360" height="5" rx="2.5" fill="#3c3836"/>
-<rect x="20" y="64" width="334.0" height="5" rx="2.5" fill="#dea584" opacity="0.85"/>
-<text x="36" y="78" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">└─ kotlin-lsp</text>
-<line x1="20" y1="102" x2="380" y2="102" stroke="#3c3836" stroke-dasharray="3 4"/>
-<circle cx="25" cy="122" r="4" fill="#3572A5"/>
-<text x="36" y="126" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12.5" font-weight="600" fill="#ebdbb2">Python</text>
-<text x="310" y="126" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#a89984" text-anchor="end">70kB</text>
-<text x="380" y="126" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#7c6f64" text-anchor="end">3.0%</text>
-<rect x="20" y="132" width="360" height="5" rx="2.5" fill="#3c3836"/>
-<rect x="20" y="132" width="10.8" height="5" rx="2.5" fill="#3572A5" opacity="0.85"/>
-<text x="36" y="146" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">└─ kotlin-lsp</text>
-<text x="36" y="160" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">└─ ulite-Amr</text>
-<line x1="20" y1="184" x2="380" y2="184" stroke="#3c3836" stroke-dasharray="3 4"/>
-<circle cx="25" cy="204" r="4" fill="#7F52FF"/>
-<text x="36" y="208" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12.5" font-weight="600" fill="#ebdbb2">Kotlin</text>
-<text x="310" y="208" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#a89984" text-anchor="end">54kB</text>
-<text x="380" y="208" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#7c6f64" text-anchor="end">2.3%</text>
-<rect x="20" y="214" width="360" height="5" rx="2.5" fill="#3c3836"/>
-<rect x="20" y="214" width="8.4" height="5" rx="2.5" fill="#7F52FF" opacity="0.85"/>
-<text x="36" y="228" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">└─ NoteScribe</text>
-<line x1="20" y1="252" x2="380" y2="252" stroke="#3c3836" stroke-dasharray="3 4"/>
-<circle cx="25" cy="272" r="4" fill="#f1e05a"/>
-<text x="36" y="276" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12.5" font-weight="600" fill="#ebdbb2">JavaScript</text>
-<text x="310" y="276" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#a89984" text-anchor="end">32kB</text>
-<text x="380" y="276" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#7c6f64" text-anchor="end">1.4%</text>
-<rect x="20" y="282" width="360" height="5" rx="2.5" fill="#3c3836"/>
-<rect x="20" y="282" width="4.9" height="5" rx="2.5" fill="#f1e05a" opacity="0.85"/>
-<text x="36" y="296" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">└─ kotlin-lsp</text>
-<line x1="20" y1="320" x2="380" y2="320" stroke="#3c3836" stroke-dasharray="3 4"/>
-<circle cx="25" cy="340" r="4" fill="#89e051"/>
-<text x="36" y="344" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12.5" font-weight="600" fill="#ebdbb2">Shell</text>
-<text x="310" y="344" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#a89984" text-anchor="end">11kB</text>
-<text x="380" y="344" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#7c6f64" text-anchor="end">0.5%</text>
-<rect x="20" y="350" width="360" height="5" rx="2.5" fill="#3c3836"/>
-<rect x="20" y="350" width="1.8" height="5" rx="2.5" fill="#89e051" opacity="0.85"/>
-<text x="36" y="364" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#7c6f64">└─ kotlin-lsp</text>
-<line x1="20" y1="388" x2="380" y2="388" stroke="#3c3836" stroke-dasharray="3 4"/>
-<line x1="20" y1="426" x2="380" y2="426" stroke="#3c3836"/>
-<text x="20" y="438" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#7c6f64">∑ 6 repos · updated May 2026</text>
-<text x="380" y="438" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#7c6f64" text-anchor="end">github.com/ulite-Amr</text>
+<svg width="400" height="476" viewBox="0 0 400 476" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#3c3836" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#3c3836" stop-opacity="1"/>
+  </linearGradient>
+</defs>
+<rect width="400" height="476" rx="10" fill="#282828"/>
+<rect x="0.5" y="0.5" width="399" height="475" rx="9.5" stroke="#504945"/>
+<rect x="22" y="18" width="3" height="14" rx="1.5" fill="#fabd2f"/>
+<text x="32" y="28" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" font-weight="700" fill="#fabd2f" letter-spacing="2">LANGUAGES</text>
+<line x1="22" y1="40" x2="378" y2="40" stroke="#504945"/>
+<rect x="22" y="48" width="3" height="28" rx="1.5" fill="#dea584" opacity="0.5"/>
+<text x="34" y="59" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Rust</text>
+<text x="296" y="59" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#7c6f64" text-anchor="end">2.1 MB</text>
+<text x="378" y="59" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#a89984" text-anchor="end">92.7%</text>
+<rect x="22" y="66" width="356" height="5" rx="2.5" fill="#3c3836"/>
+<rect x="22" y="66" width="330.2" height="5" rx="2.5" fill="#dea584" opacity="0.85"/>
+<text x="36" y="80" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#a89984">└─ kotlin-lsp</text>
+<line x1="22" y1="105" x2="378" y2="105" stroke="#3c3836" stroke-dasharray="2 3" opacity="0.6"/>
+<rect x="22" y="118" width="3" height="28" rx="1.5" fill="#3572A5" opacity="0.5"/>
+<text x="34" y="129" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Python</text>
+<text x="296" y="129" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#7c6f64" text-anchor="end">70 kB</text>
+<text x="378" y="129" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#a89984" text-anchor="end">3.0%</text>
+<rect x="22" y="136" width="356" height="5" rx="2.5" fill="#3c3836"/>
+<rect x="22" y="136" width="10.8" height="5" rx="2.5" fill="#3572A5" opacity="0.85"/>
+<text x="36" y="150" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#a89984">└─ kotlin-lsp</text>
+<text x="36" y="164" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#a89984">└─ ulite-Amr</text>
+<line x1="22" y1="189" x2="378" y2="189" stroke="#3c3836" stroke-dasharray="2 3" opacity="0.6"/>
+<rect x="22" y="202" width="3" height="28" rx="1.5" fill="#7F52FF" opacity="0.5"/>
+<text x="34" y="213" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Kotlin</text>
+<text x="296" y="213" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#7c6f64" text-anchor="end">54 kB</text>
+<text x="378" y="213" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#a89984" text-anchor="end">2.3%</text>
+<rect x="22" y="220" width="356" height="5" rx="2.5" fill="#3c3836"/>
+<rect x="22" y="220" width="8.4" height="5" rx="2.5" fill="#7F52FF" opacity="0.85"/>
+<text x="36" y="234" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#a89984">└─ NoteScribe</text>
+<line x1="22" y1="259" x2="378" y2="259" stroke="#3c3836" stroke-dasharray="2 3" opacity="0.6"/>
+<rect x="22" y="272" width="3" height="28" rx="1.5" fill="#f1e05a" opacity="0.5"/>
+<text x="34" y="283" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">JavaScript</text>
+<text x="296" y="283" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#7c6f64" text-anchor="end">32 kB</text>
+<text x="378" y="283" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#a89984" text-anchor="end">1.4%</text>
+<rect x="22" y="290" width="356" height="5" rx="2.5" fill="#3c3836"/>
+<rect x="22" y="290" width="4.9" height="5" rx="2.5" fill="#f1e05a" opacity="0.85"/>
+<text x="36" y="304" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#a89984">└─ kotlin-lsp</text>
+<line x1="22" y1="329" x2="378" y2="329" stroke="#3c3836" stroke-dasharray="2 3" opacity="0.6"/>
+<rect x="22" y="342" width="3" height="28" rx="1.5" fill="#89e051" opacity="0.5"/>
+<text x="34" y="353" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" font-weight="600" fill="#ebdbb2">Shell</text>
+<text x="296" y="353" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#7c6f64" text-anchor="end">11 kB</text>
+<text x="378" y="353" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#a89984" text-anchor="end">0.5%</text>
+<rect x="22" y="360" width="356" height="5" rx="2.5" fill="#3c3836"/>
+<rect x="22" y="360" width="1.8" height="5" rx="2.5" fill="#89e051" opacity="0.85"/>
+<text x="36" y="374" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9.5" fill="#a89984">└─ kotlin-lsp</text>
+<line x1="22" y1="399" x2="378" y2="399" stroke="#3c3836" stroke-dasharray="2 3" opacity="0.6"/>
+<line x1="22" y1="444" x2="378" y2="444" stroke="url(#g)" stroke-width="1"/>
+<text x="22" y="456" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#7c6f64">6 repositories · updated May 2026</text>
+<text x="378" y="456" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="9" fill="#7c6f64" text-anchor="end">github.com/ulite-Amr</text>
 </svg>
