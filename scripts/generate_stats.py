@@ -56,10 +56,23 @@ FALLBACK = [
 def get_language_stats() -> dict[str, int]:
     langs: dict[str, int] = {}
     
+    # GraphQL query fetching owned repositories and contributed repositories
     query = """
     query($username: String!) {
       user(login: $username) {
         repositories(first: 100, isFork: false, ownerAffiliations: OWNER) {
+          nodes {
+            languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+              edges {
+                size
+                node {
+                  name
+                }
+              }
+            }
+          }
+        }
+        repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST]) {
           nodes {
             languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
               edges {
@@ -86,19 +99,29 @@ def get_language_stats() -> dict[str, int]:
         result = resp.json()
         
         if "data" in result and result["data"] and result["data"]["user"]:
-            repos = result["data"]["user"]["repositories"]["nodes"]
-            for repo in repos:
+            user_data = result["data"]["user"]
+            
+            # Process owned repositories
+            owned_repos = user_data["repositories"]["nodes"]
+            for repo in owned_repos:
                 if repo and "languages" in repo:
                     for edge in repo["languages"]["edges"]:
                         lang_name = edge["node"]["name"]
                         size = edge["size"]
                         langs[lang_name] = langs.get(lang_name, 0) + size
+                        
+            # Process contributed repositories
+            contributed_repos = user_data["repositoriesContributedTo"]["nodes"]
+            for repo in contributed_repos:
+                if repo and "languages" in repo:
+                    for edge in repo["languages"]["edges"]:
+                        lang_name = edge["node"]["name"]
+                        size = edge["size"]
+                        langs[lang_name] = langs.get(lang_name, 0) + size
+                            
     except Exception as e:
         print(f"Error fetching GraphQL data: {e}")
-
-    # Injecting Rust contribution weight for external high-performance tools
-    langs["Rust"] = langs.get("Rust", 0) + 2500000
-    
+        
     return langs
 
 def build_svg(langs: dict[str, int], top_n: int = 6) -> str:
