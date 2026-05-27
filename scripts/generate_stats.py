@@ -56,12 +56,13 @@ FALLBACK = [
 def get_language_stats() -> dict[str, int]:
     langs: dict[str, int] = {}
     
-    # GraphQL query fetching owned repositories and contributed repositories
+    # GraphQL query updated to fetch nameWithOwner for diagnostics
     query = """
     query($username: String!) {
       user(login: $username) {
         repositories(first: 100, isFork: false, ownerAffiliations: OWNER) {
           nodes {
+            nameWithOwner
             languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
               edges {
                 size
@@ -74,6 +75,7 @@ def get_language_stats() -> dict[str, int]:
         }
         repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST]) {
           nodes {
+            nameWithOwner
             languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
               edges {
                 size
@@ -101,23 +103,31 @@ def get_language_stats() -> dict[str, int]:
         if "data" in result and result["data"] and result["data"]["user"]:
             user_data = result["data"]["user"]
             
+            print("\n--- DETAILED LANGUAGE BREAKDOWN ---")
+            
             # Process owned repositories
             owned_repos = user_data["repositories"]["nodes"]
             for repo in owned_repos:
                 if repo and "languages" in repo:
+                    repo_name = repo.get("nameWithOwner", "Unknown")
                     for edge in repo["languages"]["edges"]:
                         lang_name = edge["node"]["name"]
                         size = edge["size"]
                         langs[lang_name] = langs.get(lang_name, 0) + size
-                        
+                        print(f"[Owned] {repo_name} -> {lang_name}: {size} bytes")
+                            
             # Process contributed repositories
             contributed_repos = user_data["repositoriesContributedTo"]["nodes"]
             for repo in contributed_repos:
                 if repo and "languages" in repo:
+                    repo_name = repo.get("nameWithOwner", "Unknown")
                     for edge in repo["languages"]["edges"]:
                         lang_name = edge["node"]["name"]
                         size = edge["size"]
                         langs[lang_name] = langs.get(lang_name, 0) + size
+                        print(f"[Contributed] {repo_name} -> {lang_name}: {size} bytes")
+                        
+            print("-----------------------------------\n")
                             
     except Exception as e:
         print(f"Error fetching GraphQL data: {e}")
