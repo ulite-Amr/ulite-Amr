@@ -1,22 +1,32 @@
-<svg width="380" height="178" viewBox="0 0 380 178" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="380" height="178" rx="8" fill="#282828"/>
-<rect x="0.5" y="0.5" width="379" height="177" rx="7.5" stroke="#504945"/>
+<svg width="380" height="254" viewBox="0 0 380 254" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="380" height="254" rx="8" fill="#282828"/>
+<rect x="0.5" y="0.5" width="379" height="253" rx="7.5" stroke="#504945"/>
 <rect x="20" y="16" width="3" height="14" rx="1.5" fill="#fabd2f"/>
 <text x="30" y="27" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" font-weight="700" fill="#fabd2f" letter-spacing="2">LANGUAGES</text>
 <line x1="20" y1="36" x2="360" y2="36" stroke="#504945"/>
 <circle cx="25" cy="54" r="4" fill="#dea584"/>
 <text x="36" y="58" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11.5" fill="#ebdbb2">Rust</text>
-<text x="360" y="58" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">97.7%</text>
+<text x="360" y="58" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">92.9%</text>
 <rect x="20" y="64" width="340" height="6" rx="3" fill="#3c3836"/>
-<rect x="20" y="64" width="332.2" height="6" rx="3" fill="#dea584" opacity="0.85"/>
-<circle cx="25" cy="92" r="4" fill="#7F52FF"/>
-<text x="36" y="96" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11.5" fill="#ebdbb2">Kotlin</text>
-<text x="360" y="96" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">2.1%</text>
+<rect x="20" y="64" width="315.7" height="6" rx="3" fill="#dea584" opacity="0.85"/>
+<circle cx="25" cy="92" r="4" fill="#3572A5"/>
+<text x="36" y="96" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11.5" fill="#ebdbb2">Python</text>
+<text x="360" y="96" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">2.9%</text>
 <rect x="20" y="102" width="340" height="6" rx="3" fill="#3c3836"/>
-<rect x="20" y="102" width="7.2" height="6" rx="3" fill="#7F52FF" opacity="0.85"/>
-<circle cx="25" cy="130" r="4" fill="#3572A5"/>
-<text x="36" y="134" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11.5" fill="#ebdbb2">Python</text>
-<text x="360" y="134" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">0.2%</text>
+<rect x="20" y="102" width="9.9" height="6" rx="3" fill="#3572A5" opacity="0.85"/>
+<circle cx="25" cy="130" r="4" fill="#7F52FF"/>
+<text x="36" y="134" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11.5" fill="#ebdbb2">Kotlin</text>
+<text x="360" y="134" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">2.3%</text>
 <rect x="20" y="140" width="340" height="6" rx="3" fill="#3c3836"/>
-<rect x="20" y="140" width="0.6" height="6" rx="3" fill="#3572A5" opacity="0.85"/>
+<rect x="20" y="140" width="8.0" height="6" rx="3" fill="#7F52FF" opacity="0.85"/>
+<circle cx="25" cy="168" r="4" fill="#f1e05a"/>
+<text x="36" y="172" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11.5" fill="#ebdbb2">JavaScript</text>
+<text x="360" y="172" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">1.4%</text>
+<rect x="20" y="178" width="340" height="6" rx="3" fill="#3c3836"/>
+<rect x="20" y="178" width="4.7" height="6" rx="3" fill="#f1e05a" opacity="0.85"/>
+<circle cx="25" cy="206" r="4" fill="#89e051"/>
+<text x="36" y="210" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11.5" fill="#ebdbb2">Shell</text>
+<text x="360" y="210" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10.5" fill="#a89984" text-anchor="end">0.5%</text>
+<rect x="20" y="216" width="340" height="6" rx="3" fill="#3c3836"/>
+<rect x="20" y="216" width="1.7" height="6" rx="3" fill="#89e051" opacity="0.85"/>
 </svg>
