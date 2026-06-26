@@ -6,46 +6,46 @@
 <text x="38" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#fabd2f" letter-spacing="2.5">LANGUAGES</text>
 <text x="38" y="44" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#7c6f64">6 languages · 8 repos · 2.9 MB</text>
 <rect x="26" y="54" width="408" height="10" rx="5" fill="#3c3836"/>
-<rect x="26" y="54" width="376.33" height="10" fill="#dea584" clip-path="url(#segClip)"/>
-<rect x="402.33" y="54" width="14.0" height="10" fill="#7F52FF" clip-path="url(#segClip)"/>
-<rect x="416.33" y="54" width="10.18" height="10" fill="#3572A5" clip-path="url(#segClip)"/>
-<rect x="426.51" y="54" width="4.43" height="10" fill="#f1e05a" clip-path="url(#segClip)"/>
-<rect x="430.94" y="54" width="2.34" height="10" fill="#89e051" clip-path="url(#segClip)"/>
-<rect x="433.28" y="54" width="0.73" height="10" fill="#83a598" clip-path="url(#segClip)"/>
+<rect x="26" y="54" width="376.41" height="10" fill="#dea584" clip-path="url(#segClip)"/>
+<rect x="402.41" y="54" width="13.96" height="10" fill="#7F52FF" clip-path="url(#segClip)"/>
+<rect x="416.37" y="54" width="10.15" height="10" fill="#3572A5" clip-path="url(#segClip)"/>
+<rect x="426.52" y="54" width="4.42" height="10" fill="#f1e05a" clip-path="url(#segClip)"/>
+<rect x="430.94" y="54" width="2.33" height="10" fill="#89e051" clip-path="url(#segClip)"/>
+<rect x="433.27" y="54" width="0.73" height="10" fill="#83a598" clip-path="url(#segClip)"/>
 <line x1="26" y1="78" x2="434" y2="78" stroke="#504945" stroke-opacity=".55"/>
 <circle cx="31" cy="98" r="5" fill="#dea584"/>
 <text x="44" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Rust</text>
-<text x="434" y="102" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#dea584" text-anchor="end">92.2%</text>
+<text x="434" y="102" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#dea584" text-anchor="end">92.3%</text>
 <rect x="26" y="110" width="408" height="4" rx="2" fill="#3c3836"/>
-<rect x="26" y="110" width="376.33" height="4" rx="2" fill="#dea584" opacity=".9"/>
+<rect x="26" y="110" width="376.41" height="4" rx="2" fill="#dea584" opacity=".9"/>
 <text x="26" y="126" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">2.7 MB  ·  1 repo</text>
 <line x1="26" y1="138" x2="434" y2="138" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
 <circle cx="31" cy="152" r="5" fill="#7F52FF"/>
 <text x="44" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Kotlin</text>
 <text x="434" y="156" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#7F52FF" text-anchor="end">3.4%</text>
 <rect x="26" y="164" width="408" height="4" rx="2" fill="#3c3836"/>
-<rect x="26" y="164" width="14.0" height="4" rx="2" fill="#7F52FF" opacity=".9"/>
+<rect x="26" y="164" width="13.96" height="4" rx="2" fill="#7F52FF" opacity=".9"/>
 <text x="26" y="180" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">100 kB  ·  2 repos</text>
 <line x1="26" y1="192" x2="434" y2="192" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
 <circle cx="31" cy="206" r="5" fill="#3572A5"/>
 <text x="44" y="210" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Python</text>
 <text x="434" y="210" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#3572A5" text-anchor="end">2.5%</text>
 <rect x="26" y="218" width="408" height="4" rx="2" fill="#3c3836"/>
-<rect x="26" y="218" width="10.18" height="4" rx="2" fill="#3572A5" opacity=".9"/>
+<rect x="26" y="218" width="10.15" height="4" rx="2" fill="#3572A5" opacity=".9"/>
 <text x="26" y="234" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">73 kB  ·  2 repos</text>
 <line x1="26" y1="246" x2="434" y2="246" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
 <circle cx="31" cy="260" r="5" fill="#f1e05a"/>
 <text x="44" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">JavaScript</text>
 <text x="434" y="264" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#f1e05a" text-anchor="end">1.1%</text>
 <rect x="26" y="272" width="408" height="4" rx="2" fill="#3c3836"/>
-<rect x="26" y="272" width="4.43" height="4" rx="2" fill="#f1e05a" opacity=".9"/>
+<rect x="26" y="272" width="4.42" height="4" rx="2" fill="#f1e05a" opacity=".9"/>
 <text x="26" y="288" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">32 kB  ·  1 repo</text>
 <line x1="26" y1="300" x2="434" y2="300" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
 <circle cx="31" cy="314" r="5" fill="#89e051"/>
 <text x="44" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Shell</text>
 <text x="434" y="318" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#89e051" text-anchor="end">0.6%</text>
 <rect x="26" y="326" width="408" height="4" rx="2" fill="#3c3836"/>
-<rect x="26" y="326" width="2.34" height="4" rx="2" fill="#89e051" opacity=".9"/>
+<rect x="26" y="326" width="2.33" height="4" rx="2" fill="#89e051" opacity=".9"/>
 <text x="26" y="342" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">17 kB  ·  1 repo</text>
 <line x1="26" y1="354" x2="434" y2="354" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
 <circle cx="31" cy="368" r="5" fill="#83a598"/>
