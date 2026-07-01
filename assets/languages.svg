@@ -8,10 +8,10 @@
 <rect x="26" y="54" width="408" height="10" rx="5" fill="#3c3836"/>
 <rect x="26" y="54" width="377.02" height="10" fill="#dea584" clip-path="url(#segClip)"/>
 <rect x="403.02" y="54" width="13.69" height="10" fill="#7F52FF" clip-path="url(#segClip)"/>
-<rect x="416.71" y="54" width="9.96" height="10" fill="#3572A5" clip-path="url(#segClip)"/>
-<rect x="426.66999999999996" y="54" width="4.33" height="10" fill="#f1e05a" clip-path="url(#segClip)"/>
-<rect x="430.99999999999994" y="54" width="2.29" height="10" fill="#89e051" clip-path="url(#segClip)"/>
-<rect x="433.28999999999996" y="54" width="0.71" height="10" fill="#83a598" clip-path="url(#segClip)"/>
+<rect x="416.71" y="54" width="9.95" height="10" fill="#3572A5" clip-path="url(#segClip)"/>
+<rect x="426.65999999999997" y="54" width="4.33" height="10" fill="#f1e05a" clip-path="url(#segClip)"/>
+<rect x="430.98999999999995" y="54" width="2.29" height="10" fill="#89e051" clip-path="url(#segClip)"/>
+<rect x="433.28" y="54" width="0.71" height="10" fill="#83a598" clip-path="url(#segClip)"/>
 <line x1="26" y1="78" x2="434" y2="78" stroke="#504945" stroke-opacity=".55"/>
 <circle cx="31" cy="98" r="5" fill="#dea584"/>
 <text x="44" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Rust</text>
@@ -31,7 +31,7 @@
 <text x="44" y="210" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#ebdbb2">Python</text>
 <text x="434" y="210" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="12" font-weight="700" fill="#3572A5" text-anchor="end">2.4%</text>
 <rect x="26" y="218" width="408" height="4" rx="2" fill="#3c3836"/>
-<rect x="26" y="218" width="9.96" height="4" rx="2" fill="#3572A5" opacity=".9"/>
+<rect x="26" y="218" width="9.95" height="4" rx="2" fill="#3572A5" opacity=".9"/>
 <text x="26" y="234" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">73 kB  ·  2 repos</text>
 <line x1="26" y1="246" x2="434" y2="246" stroke="#3c3836" stroke-dasharray="3 5" opacity=".6"/>
 <circle cx="31" cy="260" r="5" fill="#f1e05a"/>
@@ -55,6 +55,6 @@
 <rect x="26" y="380" width="0.71" height="4" rx="2" fill="#83a598" opacity=".9"/>
 <text x="26" y="396" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">5 kB  ·  1 repo</text>
 <line x1="26" y1="420" x2="434" y2="420" stroke="#504945" stroke-opacity=".4"/>
-<text x="26" y="438" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">updated Jun 2026</text>
+<text x="26" y="438" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64">updated Jul 2026</text>
 <text x="434" y="438" font-family="ui-monospace,'Cascadia Code','Segoe UI Mono','Roboto Mono',monospace" font-size="9.5" fill="#7c6f64" text-anchor="end">@ulite-Amr</text>
 </svg>
